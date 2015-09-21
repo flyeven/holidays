@@ -1,2 +1,2 @@
 # holidays
-An Impulse module for displaying Holidays.  http://holidayapi.com/
+An Impulse module for displaying holidays.  http://holidayapi.com/
